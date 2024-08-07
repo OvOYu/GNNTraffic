@@ -58,6 +58,7 @@ Top journals with paper counts:
 # 2024
 ## Journal
 * Ju W, Zhao Y, et al. <b>COOL: A conjoint perspective on spatio-temporal graph neural network for traffic forecasting[J]</b>. Information Fusion, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S1566253524001192)
+* Fang S, Ji W, Xiang S, et al. <b>PreSTNet: Pre-trained Spatio-Temporal Network for traffic forecasting[J]</b>. Information Fusion, 2024, 106: 102241. [Link](https://www.sciencedirect.com/science/article/pii/S1566253524000198) [Code](https://github.com/WoodSugar/PreSTNet)
 
 ## Preprint
 * Li H, Zhao Y, et al. <b>A Survey on Graph Neural Networks in Intelligent Transportation Systems[J]</b>. arXiv preprint arXiv:2401.00713, 2024. [Link](https://arxiv.org/abs/2401.00713)
